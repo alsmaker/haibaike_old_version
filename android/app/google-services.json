@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "309012460679",
+    "project_id": "hibaike-6f89f",
+    "storage_bucket": "hibaike-6f89f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309012460679:android:86dfd5c586f8ee3dc63422",
+        "android_client_info": {
+          "package_name": "com.project.hibaike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309012460679-eoc8ph3e8m0ol91jo94mu801vvj4m63m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.hibaike",
+            "certificate_hash": "ca8a2db79111f0a701493cc8d966e6ed316665bd"
+          }
+        },
+        {
+          "client_id": "309012460679-lltpj2cil06qkin1il8e8fjj3u18rfgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBft-FYXbNnXcKHgbWu_acK5MWphfSZuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309012460679-lltpj2cil06qkin1il8e8fjj3u18rfgm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309012460679-f5s9r0stbvkdim9qntk6s44cei1qhd3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.hibaike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
